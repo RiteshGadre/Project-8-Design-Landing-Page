@@ -6,7 +6,7 @@
 
 ![](./thumbnail.png)
 
-[Click Here](https://jovial-fairy-fb9ca8.netlify.app/)
+[Click Here](https://ritesh-design-landing-page.netlify.app/)
 
 
 
